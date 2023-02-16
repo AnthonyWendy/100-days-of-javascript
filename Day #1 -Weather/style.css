@@ -153,3 +153,14 @@ search-box i{
     opacity: 0;
     display: none;
 }
+
+.not-found img{
+    width: 70%;
+}
+
+.not-founf p {
+    color: #06283D;
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 12px;
+}
